@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 24
-    buildToolsVersion "24.0.3"
+    compileSdkVersion 20
+    buildToolsVersion "20.0.3"
 
     defaultConfig {
         applicationId "com.example.mihkel.test4"
         minSdkVersion 14
-        targetSdkVersion 24
+        targetSdkVersion 20
         versionCode 1
         versionName "1.0"
     }
